@@ -1,0 +1,13 @@
+
+e
+java:S1192"IDefine a constant instead of duplicating this literal "2022-8-8" 3 times.(†ŠİQ8íÙ—Å0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¨¨Øüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë‘¢‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ı–ûúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šò»»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´’ãÊ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø—ç„
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÀï–ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÚßÒ
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8†ıÖ—Å0

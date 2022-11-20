@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¨¨Øüÿÿÿÿ
+—
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ú˜
+l
+java:S1172;"ORemove these unused method parameters "date", "docname", "contact", "location".(éƒÃ±8±˜Í—Å0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(€¸È¨ûÿÿÿÿ8¬©¼—Å0
+Z
+java:S1172A"8Remove these unused method parameters "date", "docname".(íß¨Üüÿÿÿÿ8«ÛÏ—Å0
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Ô½•8³½—Å0
+H
+java:S1172F"+Remove this unused method parameter "date".(´şå8‰Ğ—Å0
+T	java:S106G"9Replace this use of System.out or System.err by a logger.(¹­õ28´½—Å0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¯ÛÏ—Å0

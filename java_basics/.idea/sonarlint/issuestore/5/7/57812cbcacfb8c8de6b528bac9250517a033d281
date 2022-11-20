@@ -1,0 +1,14 @@
+
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Finance" 4 times.(‘ªôıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¦’
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ø¬Åµúÿÿÿÿ
+R
+java:S4973+"<Strings and Boxed types should be compared using "equals()".(…Ã„›
+Q
+java:S49738"<Strings and Boxed types should be compared using "equals()".(Ş®
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¿Äûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß»¢Ç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıøÌ€øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À¨²Ñüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿İ¨ÿÿÿÿÿ

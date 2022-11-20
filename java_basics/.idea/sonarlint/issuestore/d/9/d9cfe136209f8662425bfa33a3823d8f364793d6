@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Λ¨¨Ψόÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ω¨ι8Ώ΅ΉΪΔ0
+D
+java:S1068".Remove this unused "doctorName" private field.(Ψ―·
+E
+java:S1068"*Remove this unused "wardNo" private field.(σ³θ²ώÿÿÿÿ
+G
+java:S1068	"1Remove this unused "availableTime" private field.(ªι³€
+M
+java:S1068
+"2Remove this unused "specifiedField" private field.(Ώΰσοϊÿÿÿÿ

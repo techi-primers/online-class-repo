@@ -1,0 +1,10 @@
+
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Substraction " 3 times.(’šÍ”øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¹ÈÔûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø£€ƒüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’šÍ”øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’šÍ”øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’šÍ”øÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(³Û“Ü
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ø£€ƒüÿÿÿÿ

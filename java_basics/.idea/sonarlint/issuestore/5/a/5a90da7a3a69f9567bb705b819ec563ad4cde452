@@ -1,0 +1,28 @@
+
+t
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ÄÿÃüÿÿÿÿ
+t
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ÄÿÃüÿÿÿÿ
+i
+java:S1192&"NDefine a constant instead of duplicating this literal " departments " 3 times.(éíŞ«üÿÿÿÿ
+g
+java:S1192&"LDefine a constant instead of duplicating this literal "employeeId " 3 times.(éíŞ«üÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹£¾†øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛáÇ†
+V	java:S125
+"<This block of commented-out lines of code should be removed.(²ÜŞ¯ıÿÿÿÿ
+B
+java:S1602$",Remove useless curly braces around statement(ÄÓŒ‚
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(éíŞ«üÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(­ËĞéıÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Å£İ×ùÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(úÂ³Îùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(›Ò ´
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ª†ßâıÿÿÿÿ
+B
+java:S1602H",Remove useless curly braces around statement(ÄÓŒ‚
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(éíŞ«üÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(òÅ’˜
+B
+java:S1602R",Remove useless curly braces around statement(ÄÓŒ‚
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(éíŞ«üÿÿÿÿ

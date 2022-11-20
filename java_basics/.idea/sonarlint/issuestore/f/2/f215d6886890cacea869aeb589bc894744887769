@@ -1,0 +1,31 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö¸âò
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¿Äûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÑÛ¾‘ıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(õá–æ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ê£Èò
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(á÷Ì†
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(•©Åèÿÿÿÿÿ
+H
+java:S1172,"-Remove this unused method parameter "worddd".(”š¨ıÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(„Øªü
+L
+java:S1854B"6Remove this useless assignment to local variable "is".(ãˆİ
+=
+java:S1481B"'Remove this unused "is" local variable.(ãˆİ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Ÿ½Îûÿÿÿÿ
+E
+java:S1172I"*Remove this unused method parameter "val".(ºÑ˜©şÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Ÿ½Îûÿÿÿÿ
+C	java:S108e")Either remove or fill this block of code.(ÖÎˆıÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(îÇğùÿÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+I
+java:S1144"3Remove this unused private "findAndRePlace" method.(óŠ½Ö
+S
+java:S1144,"8Remove this unused private "stringConcatination" method.(”š¨ıÿÿÿÿ
+L
+java:S1144I"1Remove this unused private "stringCharAt" method.(ºÑ˜©şÿÿÿÿ
+M
+java:S1144Z"2Remove this unused private "stringComapre" method.(¸¥É™şÿÿÿÿ

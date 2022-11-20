@@ -1,0 +1,11 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(æ™€Ø
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛáÇ†
+M
+java:S18544"7Remove this useless assignment to local variable "mnn".(¦ŠÉ·
+V	java:S125"<This block of commented-out lines of code should be removed.(µÝöþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ
+>
+java:S14814"(Remove this unused "mnn" local variable.(¦ŠÉ·
