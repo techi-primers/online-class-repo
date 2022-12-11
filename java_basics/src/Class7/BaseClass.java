@@ -12,5 +12,10 @@ public class BaseClass {
 
         SoftwareEngineer softwareEngineer2 = new SoftwareEngineer(100000,5,500000);
         System.out.println(softwareEngineer.calculateSalary());
+
+        //Pholymorphism 1. runtime
+        //                2. compilie time
+        //QaEngineer qaEngineer1 = new Engineer();
+        //dynamic method dispatch
     }
 }
